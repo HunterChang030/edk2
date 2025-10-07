@@ -1,5 +1,5 @@
 /** @file
-  Industry Standard Definitions of SMBIOS Table Specification v3.8.0.
+  Industry Standard Definitions of SMBIOS Table Specification v3.9.0.
 
 Copyright (c) Microsoft Corporation. All rights reserved.<BR>
 Copyright (c) 2024-2025, NVIDIA CORPORATION & AFFILIATES. All rights reserved.<BR>
